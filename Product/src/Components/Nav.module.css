@@ -1,0 +1,26 @@
+.q {
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+}
+
+.qq {
+    background-color: mediumaquamarine;
+    padding: 15px;
+    display: flex;
+    justify-content: flex-start;
+
+
+}
+
+ul {
+    display: flex;
+    padding: 0;
+    margin: 0;
+    width: 170px;
+    justify-content: space-between;
+
+}
+
+li {
+    list-style-type: none;
+}
